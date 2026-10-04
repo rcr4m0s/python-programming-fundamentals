@@ -1,16 +1,21 @@
-# 🐍 Python Programming Fundamentals
+﻿# Python Programming Fundamentals
 
-Welcome to my Python Fundamentals repository! This repository serves as a structured showcase of my core Python programming capabilities, algorithm problem-solving, and clean coding practices.
+A structured repository showcasing core Python programming concepts, object-oriented programming (OOP), data structures, algorithms, and clean code practices.
 
-## 📂 Repository Structure
-
-- **`01-syntax-and-data-types/`**: Primitive data types, lists, dictionaries, tuples, sets, string manipulations, and list comprehensions.
-- **`02-control-flow/`**: Decision-making using conditional statements, loops, and conditional data processing.
-- **`03-functions-and-modules/`**: Writing modular, reusable code with functions, custom modules, and clean logic.
-- **`04-object-oriented-programming/`**: OOP design principles including classes, inheritance, encapsulation, method overriding, and magic methods.
-- **`05-file-handling-and-exceptions/`**: Safe file reading/writing (JSON, CSV, TXT) and robust error handling.
+## 📌 Repository Overview
+This repository serves as a foundational engineering showcase, demonstrating proficiency in writing modular, readable, and maintainable Python code.
 
 ## 🛠️ Key Concepts Covered
-- Object-Oriented Programming (OOP) & Clean Architecture
-- Efficient Data Manipulation & Data Structures
-- Modular Code Design & PEP 8 Coding Standards
+* **Core Syntax & Logic:** Data types, control flow, functions, and exception handling.
+* **Object-Oriented Programming (OOP):** Classes, inheritance, encapsulation, and polymorphism.
+* **Data Structures & Algorithms:** Arrays, dictionaries, linked lists, searching, and sorting algorithms.
+* **Modular Code Architecture:** File I/O, custom modules, and clean coding principles.
+
+## 🚀 Getting Started
+
+### Setup & Execution
+1. Clone the repository:
+   git clone https://github.com/rcr4m0s/python-programming-fundamentals.git
+   cd python-programming-fundamentals
+2. Run any script directly:
+   python <script_name>.py
