@@ -18,12 +18,9 @@ class FamilyPlan(Subscription):
         base_price = super().get_total_cost()
         return base_price + (self.members * 100)
 
-# Regular Subscription
 basic = Subscription("Ramos", 250)
 print(f"{basic.user}'s Total: ₱{basic.get_total_cost()}")
 # Expected: 250
 
-# Family Plan (4 members)
 family = FamilyPlan("Ramos Family", 250, 4)
 print(f"{family.user}'s Total: ₱{family.get_total_cost()}")
-# Expected: 650 (250 base + [4 * 100])

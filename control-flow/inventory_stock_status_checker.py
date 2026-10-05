@@ -12,6 +12,4 @@ for invent in inventory:
         print(f"{invent["item"]} - OUT OF STOCK!")
 
 
-
-
 print("ENDABLE")

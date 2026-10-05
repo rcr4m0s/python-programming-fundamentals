@@ -2,7 +2,7 @@
 
 def analyze_inventory(inventory):
     total_value = 0
-    most_expensive = inventory[0]  # Baseline para sa highest price
+    most_expensive = inventory[0] 
 
     print("\n--- INVENTORY REPORT ---")
     
@@ -30,5 +30,4 @@ inventory = [
     {"item": "Mango", "price": 30, "stock": 0}
 ]
 
-# Ipasa ang tamang variable na 'inventory'
 analyze_inventory(inventory)

@@ -1,4 +1,3 @@
-# 1. Main Data Structure (Alkansya)
 account = {
     "owner": "Student",
     "balance": 1000.0,
